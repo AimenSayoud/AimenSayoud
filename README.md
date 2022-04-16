@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AimenSayoud
 - 👀 I’m interested in building beautiful and effective mobile and web applications
-- i m flutter developer for more than two years 
-- web developer experience for one year
+- i m flutter developer  
+- web developer with js
 - 🌱 i use node js as back end to my web apps
 - 📫 How to reach me  : aymensayoud2019@gmail.com
 

@@ -3,6 +3,11 @@ Hi 👋 My name is Aimen SAYOUD
 
 mobile & backend developer
 --------------------------
+<!---
+my code 
+
+
+
 
 I m currently studying computer science at the University Of Science And Technology Houari Boumediene
 
@@ -41,6 +46,10 @@ I m currently studying computer science at the University Of Science And Technol
  ### Badges
  <a
                       href="http://www.github.com/aimensayoud"><img src="https://github-readme-stats.vercel.app/api?username=aimensayoud&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aimensayoud's GitHub stats" /></a>
+
+
+end 
+--->
 <!---
 AimenSayoud/AimenSayoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

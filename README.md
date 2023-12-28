@@ -9,7 +9,6 @@ I m currently studying computer science at the University Of Science And Technol
 
 *   🌍  I'm based in Algiers, Algeria
 *   ✉️  You can contact me at [aimennsayoud@gmail.com](mailto:aimennsayoud@gmail.com)
-*   🚀  I'm currently working on [Qrall](http://qrall.cc) and [kitabook](https://kitabook.club/) ...
 *   🧠   node.js & Firebase developer 
 *   🤝  I'm open to collaborating on flutter projects
 *   

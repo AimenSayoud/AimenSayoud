@@ -8,7 +8,6 @@ mobile & backend developer
 I m currently studying computer science at the University Of Science And Technology Houari Boumediene
 
 *   🌍  I'm based in Algiers, Algeria
-*   🖥️  See my portfolio at [here](https://aimensayoud.github.io/cv-portfolio/)
 *   ✉️  You can contact me at [aimennsayoud@gmail.com](mailto:aimennsayoud@gmail.com)
 *   🚀  I'm currently working on [Qrall](http://qrall.cc) and [kitabook](https://kitabook.club/) ...
 *   🧠   node.js & Firebase developer 
